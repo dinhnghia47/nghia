@@ -1,0 +1,2 @@
+# nghia
+ learn programming knowledge
